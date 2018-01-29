@@ -5,10 +5,10 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xujiaao/hexo-migrator-gist.git"
+    "url": "https://github.com/xujiaao/hexo-migrator-gists.git"
   },
   "bugs": {
-    "url": "https://github.com/xujiaao/hexo-migrator-gist/issues"
+    "url": "https://github.com/xujiaao/hexo-migrator-gists/issues"
   },
   "keywords": [
     "hexo",
