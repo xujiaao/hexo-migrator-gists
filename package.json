@@ -1,0 +1,29 @@
+{
+  "name": "hexo-migrator-gist",
+  "version": "0.0.1",
+  "description": "GithubGist migrator plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xujiaao/hexo-migrator-gist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xujiaao/hexo-migrator-gist/issues"
+  },
+  "keywords": [
+    "hexo",
+    "gist",
+    "migrator"
+  ],
+  "author": "Jiaao Xu <real.xujiaao@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "hexo-front-matter": "^0.2.3",
+    "inquirer": "^5.0.1",
+    "lodash": "^4.17.4",
+    "parse-link-header": "^1.0.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
