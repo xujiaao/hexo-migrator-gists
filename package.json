@@ -1,6 +1,6 @@
 {
-  "name": "hexo-migrator-gist",
-  "version": "0.0.2",
+  "name": "hexo-migrator-gists",
+  "version": "0.0.1",
   "description": "GithubGist migrator plugin for Hexo",
   "main": "index",
   "repository": {
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "hexo",
-    "gist",
+    "gists",
     "migrator"
   ],
   "author": "Jiaao Xu <real.xujiaao@gmail.com>",
