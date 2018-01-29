@@ -4,9 +4,13 @@ Migrate your blog from [Github Gist] to [Hexo].
 
 ## Install
 
+coming soon...
+
+<!--
 ``` bash
 $ npm install hexo-migrator-joomla --save
 ```
+-->
 
 
 ## Usage
