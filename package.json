@@ -1,6 +1,6 @@
 {
   "name": "hexo-migrator-gists",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "GithubGist migrator plugin for Hexo",
   "main": "index",
   "repository": {
