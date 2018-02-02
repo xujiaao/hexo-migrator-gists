@@ -2,7 +2,7 @@
 
 Migrate your blog from [Github Gist] to [Hexo]. ( ͡° ͜ʖ ͡°)✧ 
 
-:trollface: [Demo](https://xujiaao.github.io)
+:point_right: [Demo](https://xujiaao.github.io)
 
 
 ## Install
