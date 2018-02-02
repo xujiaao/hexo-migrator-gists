@@ -19,9 +19,9 @@ $ hexo migrate gists
 ```
 
 
-## Advanced Usage
+### Advanced Usage
 
-### Front-matter
+#### Front-matter
 
 You can use [Hexo Front-matter] in posts, plugin will automatically merge them.
 
@@ -34,7 +34,7 @@ tags:
 ---
 ````
 
-### Hide Contents
+#### Hide Contents
 
 Hide the contents which you don't want to be shown in your blog. For example, the header line.
 
