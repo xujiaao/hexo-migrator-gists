@@ -1,5 +1,8 @@
 # Github Gist Migrator
 
+[![npm version](https://badge.fury.io/js/hexo-migrator-gists.svg)](https://badge.fury.io/js/hexo-migrator-gists)
+
+
 Migrate your blog from [Github Gist] to [Hexo]. ( ͡° ͜ʖ ͡°)✧ 
 
 :point_right: [Demo](https://xujiaao.github.io)
