@@ -2,6 +2,8 @@
 
 Migrate your blog from [Github Gist] to [Hexo]. ( ͡° ͜ʖ ͡°)✧ 
 
+[Live Demo] (https://xujiaao.github.io)
+
 
 ## Install
 
@@ -21,6 +23,16 @@ $ hexo migrate gists
 
 ### Advanced Usage
 
+#### Save Github Gist Id
+
+Just add this line in `_config.yml`.
+
+````yml
+# Gists
+gists_user: <your github gist id>
+````
+
+
 #### Front-matter
 
 You can use [Hexo Front-matter] in posts, plugin will automatically merge them.
@@ -33,6 +45,7 @@ tags:
 - Android Things
 ---
 ````
+
 
 #### Hide Contents
 
