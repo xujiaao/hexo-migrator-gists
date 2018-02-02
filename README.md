@@ -2,7 +2,7 @@
 
 Migrate your blog from [Github Gist] to [Hexo]. ( ͡° ͜ʖ ͡°)✧ 
 
-[Live Demo] (https://xujiaao.github.io)
+[Live Demo](https://xujiaao.github.io)
 
 
 ## Install
@@ -25,7 +25,7 @@ $ hexo migrate gists
 
 #### Save Github Gist Id
 
-Just add this line in `_config.yml`.
+Add this line to `_config.yml`, then the plugin will stop asking for your username.
 
 ````yml
 # Gists
